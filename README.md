@@ -1,2 +1,3 @@
 # devasc-study-team
-#### Working together to pass the DEVASC exam
+## What I learned
+#### You can create code and files and push them directly to github with a simple command
